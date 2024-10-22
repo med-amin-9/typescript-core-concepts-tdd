@@ -65,38 +65,38 @@ test("q5_2", () => {
     expect(quiz.q5_2()).answer('?');
 })
 
-test("q6_2", () => {
+test("q6_1", () => {
     expect(quiz.q6_1()).answer('?');
 })
-test("q6_1", () => {
+test("q6_2", () => {
     expect(quiz.q6_2()).answer('?');
 })
-test("q6_4", () => {
+test("q6_3", () => {
     expect(quiz.q6_3()).answer('?');
 })
-test("q6_5", () => {
+test("q6_4", () => {
     expect(quiz.q6_4()).answer('?');
 })
-test("q6_6", () => {
+test("q6_5", () => {
     expect(quiz.q6_5()).answer('?');
 })
-test("q6_7", () => {
+test("q6_6", () => {
     expect(quiz.q6_6()).answer('?');
 })
-test("q6_3", () => {
+test("q6_7", () => {
     expect(quiz.q6_7()).answer('?');
 })
 
-test("q7_2", () => {
+test("q7_1", () => {
     expect(quiz.q7_1()).answer('?');
 })
-test("q7_3", () => {
+test("q7_2", () => {
     expect(quiz.q7_2()).answer('?');
 })
-test("q7_4", () => {
+test("q7_3", () => {
     expect(quiz.q7_3()).answer('?');
 })
-test("q7_1", () => {
+test("q7_4", () => {
     expect(quiz.q7_4()).answer('?');
 })
 
