@@ -31,7 +31,7 @@ describe("Equality Operators", () => {
     });
 
     test("Strict equality (===) with null and undefined", () => {
-        expect(null === undefined).toBe(false); // Different types
+        expect(null === undefined).toBe(false); // Different typesex
     });
 
     test("Strict equality (===) with NaN and NaN", () => {
